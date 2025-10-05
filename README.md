@@ -8,10 +8,10 @@
 ---
 
 ### 🧠 About Me  
-- 🤖 I work on projects involving the **Raspberry Pi Pico 2040** and **Arduino** platforms.  
-- 💻 I focus on building embedded applications for **home automation**, **signal processing**, and **access control**.  
+- 🤖 I love designing **embedded control systems** that integrate sensors, actuators, and communication protocols. 
+- 💻 I focus on building **low-level applications (C/C++)** for signal processing and embedded systems and **high-level tools (Python)** for model training and validation.
 - 📡 I’m interested in learning about secure communications and practical electronics design.  
-- 🌱 Always open to collaborating on electronics and programming projects.  
+- 🌍 Always open to collaborating on **IoT**, **robotics**, and **digital systems** projects.
 
 ---
 
