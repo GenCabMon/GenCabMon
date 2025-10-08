@@ -36,5 +36,14 @@
 
 ---
 
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+Last Update: 2024-10-01
+<!--RECENT_ACTIVITY:last_update_end-->
+
+---
+
 ### ⚡ Fun Fact  
 🎮 I love gaming, playing chess, and experimenting with how everyday electronics can be turned into creative interactive systems.
