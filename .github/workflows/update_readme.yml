@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Cada 12 horas
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,9 +12,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+
       - name: Update recent activity
-        uses: Readme-Workflows/recent-activity@v2.5.0
+        uses: avinal/Profile-Readme-Activity@main
         with:
-          GH_USERNAME: GenCabMon
-        env:
+          GITHUB_USERNAME: GenCabMon
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
