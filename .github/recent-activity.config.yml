@@ -1,8 +1,0 @@
-# .github/recent-activity.config.yml
-# Configuración básica para el action Readme-Workflows/recent-activity
-
-username: GenCabMon
-max_event_count: 10
-commit_message: "⚡ Update README with recent activity"
-readme_file: "README.md"
-github_token: ${{ secrets.GITHUB_TOKEN }}
