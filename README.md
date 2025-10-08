@@ -37,10 +37,8 @@
 ---
 
 ### :zap: Recent Activity
-<!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
-<!--END_SECTION:activity-->
 Last Update: 2024-10-01
 
 ---
